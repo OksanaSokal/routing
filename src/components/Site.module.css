@@ -45,3 +45,9 @@
     color: #7fb8f1;
     text-decoration: underline;
 }
+
+.img {
+    width: 150px;
+    height: 150px;
+    margin-right: 15px;
+}
